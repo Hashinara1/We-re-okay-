@@ -1,0 +1,32 @@
+{
+    "projects": {
+        "514052DE-0B91-2F04-0976-63703280238C": {
+            "config-debug": {
+                "additionalDependencies": [],
+                "additionalIncludeDirectories": [],
+                "additionalLibraryDirectories": [],
+                "preprocessorDefinitions": []
+            },
+            "config-release": {
+                "additionalDependencies": [],
+                "additionalIncludeDirectories": [],
+                "additionalLibraryDirectories": [],
+                "preprocessorDefinitions": []
+            },
+            "dependencies": [],
+            "dependents": [],
+            "name": "Game",
+            "property-lib": false,
+            "property-pch": true,
+            "property-vcpkg": false,
+            "property-window": true
+        }
+    },
+    "projects_name_to_guid": {
+        "Game": "514052DE-0B91-2F04-0976-63703280238C"
+    },
+    "solution_guid": "368B6B23-5DCC-0CB1-02D4-11A4647B354D",
+    "solution_name": "Pipeline3DProject",
+    "startup_project": "",
+    "version": "2.0"
+}
